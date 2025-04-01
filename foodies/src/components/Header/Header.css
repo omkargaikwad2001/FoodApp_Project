@@ -1,0 +1,15 @@
+.header{
+    padding: 5rem;
+    margin-bottom: 1rem;
+    border-radius: 0.3rem;
+    -webkit-border-radius: 0.3rem;
+    -moz-border-radius: 0.3rem;
+    -ms-border-radius: 0.3rem;
+    -o-border-radius: 0.3rem;
+    margin-top: 0.25rem;
+    color: white;
+    background-image: url("../../assets/burger.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
